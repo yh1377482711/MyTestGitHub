@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 /***
- * 这是余涵的测试项目
+ * 这是余涵的测试项目^
  */
 public class MainActivity extends AppCompatActivity {
 
